@@ -12,7 +12,7 @@ function Header() {
         <div>
           <span className="text-xl cursor-pointer font-bold ml-2">
             Ecommerce{" "}
-            <span className="text-blue-500 font-bold">MarketPlace</span>
+            <span className="text-blue-500 font-bold">Website</span>
           </span>
         </div>
 
@@ -28,7 +28,7 @@ function Header() {
         {/* Right Part */}
         <div className="flex space-x-4 items-center">
           <button className="hidden md:inline-block text-blue-500 border border-blue-500 px-4 py-2 rounded hover:bg-blue-50">
-            Your Cart
+            Your Cart 
           </button>
 
           <Link href="/cart">

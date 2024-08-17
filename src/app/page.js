@@ -11,7 +11,7 @@ export default function Home() {
   console.log(cart);
   return (
     <main className="">
-      <Header/>
+      <Header />
 
       <HeroBanner/>
 
