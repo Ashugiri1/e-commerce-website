@@ -12,7 +12,7 @@ function Header() {
         <div>
           <span className="text-xl cursor-pointer font-bold ml-2">
             Ecommerce{" "}
-            <span className="text-blue-500 font-bold">Website</span>
+            <span className="text-blue-500 font-bold">Shop</span>
           </span>
         </div>
 
